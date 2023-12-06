@@ -40,13 +40,13 @@ html {
 }
 
 p {
-    color: black !important;
+    color: rgb(0, 0, 0) !important;
 }
 
 .corPrimaria {
-    background-color: #052e26;
+    background-color: #0b110f;
 }
 
 .itemMenu {
-    color: white;
+    color: rgb(238, 225, 225);
 }
